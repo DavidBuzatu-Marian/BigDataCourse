@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <title font_style="bold" font_size="24px">Introduction</title>
+    <subtitle font_size="18px">This exercise will cover XML and JSON well-formedness.</subtitle>
+    <description font_size="16px">For the next four weeks you will be using <link
+            to="https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html">oXygen
+            23.1</link> , an XML/JSON development IDE. Before starting, make sure oXygen is
+        installed and working on your computer. </description>
+</doc>

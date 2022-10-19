@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<conversations>
+    <conversation>
+        <conversation_id>42</conversation_id>
+        <messages>
+            <message>
+                <people>
+                    <person>charlie</person>
+                    <person>jesse</person>
+                    <person>ari</person>
+                </people>
+                <sender>charlie</sender>
+                <content>hey, here's the doc &gt;&lt;</content>
+                <timestamp>1510410193</timestamp>
+                <is_read>TRUE</is_read>
+            </message>
+            <message>
+                <people>
+                    <person>charlie</person>
+                    <person>jesse</person>
+                    <person>ari</person>
+                </people>
+                <sender>charlie</sender>
+                <timestamp>1510410244</timestamp>
+                <is_read>TRUE</is_read>
+                <attachement_id>doc_6492</attachement_id>
+            </message>
+            <message>
+                <people>
+                    <person>charlie</person>
+                    <person>jesse</person>
+                    <person>ari</person>
+                </people>
+                <sender>ari</sender>
+                <content>thanks! \o/</content>
+                <timestamp>1510432987</timestamp>
+                <is_read>FALSE</is_read>
+            </message>
+        </messages>
+    </conversation>
+    <conversation>
+        <conversation_id>17</conversation_id>
+        <messages>
+            <message>
+                <people>
+                    <person>rudy</person>
+                    <person>sage</person>
+                </people>
+                <sender>rudy</sender>
+                <content>look at this cute "bat-cat"! 😻</content>
+                <timestamp>1500897189</timestamp>
+                <is_read>TRUE</is_read>
+                <attachement_id>img_91847</attachement_id>
+            </message>
+            <message>
+                <people>
+                    <person>rudy</person>
+                    <person>sage</person>
+                </people>
+                <content>aww ♥</content>
+                <timestamp>1506610190</timestamp>
+                <is_read>TRUE</is_read>
+            </message>
+        </messages>
+    </conversation>
+</conversations>
